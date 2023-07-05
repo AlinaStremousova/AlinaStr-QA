@@ -1,1 +1,1 @@
- 
+str = "Alina"
