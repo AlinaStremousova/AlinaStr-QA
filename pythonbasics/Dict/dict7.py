@@ -8,3 +8,4 @@ user = {
 key_list = user.keys()
 print(key_list)
 key_list[0] = "company"
+# Неможна змінювати елементи словника
